@@ -2,7 +2,7 @@
 
 Este repositório é uma coleção de implementações de algoritmos e estruturas de dados fundamentais da Ciência da Computação, desenvolvidos para estudo e aprimoramento de lógica de programação. O objetivo é demonstrar a compreensão de diferentes abordagens para problemas clássicos, bem como a análise de complexidade de tempo e espaço.
 
-## 📚 Conteúdo
+## Conteúdo
 
 ### Algoritmos de Ordenação
 
@@ -23,7 +23,7 @@ Este repositório é uma coleção de implementações de algoritmos e estrutura
 *   **Filas (Queues)**
 *   **Árvores (Trees)**
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 Cada algoritmo e estrutura de dados está contido em sua própria pasta, com um arquivo de código-fonte e, quando aplicável, um arquivo de teste.
 
